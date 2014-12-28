@@ -14,12 +14,24 @@ ___Instructions:___
 
 Upon first run, SuperSU will offer to update the SU binary:
 
-Select "**Continue**", followed by "**Normal**" method of installation and then reboot to finish.
+Press **Continue**, followed by **Normal** method of installation and then **Reboot** to finish.
 
 ```
 There was never any warranty.
-All trademarks are owned by their owners (!)
+Trademarks are owned by their owners (!)
 ```
-<a href="http://facebook.com/chuck.knowledge">Chuck Knowledge</a> loves you.
-
 ![App screenshot](/../screenshots/Tango Root screenshot.png?raw=true "App screenshot")
+
+___Removal:___
+
+After you have used this app, you can uninstall it.
+
+To unroot completely:
+
+1. Launch SuperSU
+2. Press **Settings**
+3. Under **Cleanup**, press **Full unroot**
+4. Press **Continue**
+5. Reboot
+
+<a href="http://facebook.com/chuck.knowledge">Chuck Knowledge</a> loves you.
